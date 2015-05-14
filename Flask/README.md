@@ -1,8 +1,8 @@
-##Installation
+#Installation
 
-#first, install pip
+##first, install pip
 `sudo apt-get install python-pip`
 
-#install flask
+##install flask
 `sudo pip install flask`
 
